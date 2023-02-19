@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-#This is the ,main function
+/*This is the ,main function*/
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
