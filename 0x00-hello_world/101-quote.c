@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+#This is the main function
 int main(void)
 {
 	puts("and that piece of art is useful\" - Dora Korpar, 2015-10-19");
