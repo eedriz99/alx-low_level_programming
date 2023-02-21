@@ -1,10 +1,10 @@
 #include<stdio.h>
 
 /**
- * main - This function utilizes the puts function and escape character for 
+ * main - This function utilizes the puts function and escape character for
  * properly formatting of printed string
  *
- * Return: 0 always
+ * Return: 1 always
  */
 int main(void)
 {
