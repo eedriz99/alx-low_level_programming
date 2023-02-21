@@ -1,7 +1,8 @@
 #include<stdio.h>
 
 /**
- * main - This function utilizes the puts function and escape characters in properly formstting printed string
+ * main - This function utilizes the puts function and escape character for 
+ * properly formatting of printed string
  *
  * Return: 0 always
  */
