@@ -1,6 +1,10 @@
 #include<stdio.h>
 
-/*This is the main function*/
+/**
+ * main - This function utilizes the puts function and escape characters in properly formstting printed string
+ *
+ * Return: 0 always
+ */
 int main(void)
 {
 	puts("and that piece of art is useful\" - Dora Korpar, 2015-10-19");
