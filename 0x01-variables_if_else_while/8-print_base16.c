@@ -14,7 +14,7 @@ int main(void)
 	int digit;
 	int letter;
 
-	for (digit = 0; digit <= 9; digit++)
+	for (digit = 48; digit <= 57; digit++)
 	{
 		putchar(digit);
 	}
