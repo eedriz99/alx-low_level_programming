@@ -6,7 +6,7 @@
  * @a: variable a.
  * @b: variable b.
  *
- * Return: always 0.
+ * Return: always (void).
  */
 
 void swap_int(int *a, int *b)
@@ -16,6 +16,4 @@ void swap_int(int *a, int *b)
 	placeholder_variable = *a;
 	*a = *b;
 	*b = placeholder_variable;
-
-	return (0);
 }
