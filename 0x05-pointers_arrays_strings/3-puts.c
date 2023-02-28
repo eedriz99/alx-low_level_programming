@@ -6,7 +6,14 @@
  * Return: void
  */
 
-void _puts(char *str)
+void_puts(char *str)
 {
-	return (*str + '\n');
+	int i =0;
+
+	while (str[i])
+	{
+		_putchar(str[i]);
+		i++;
+	}
+	_putchar('\n');
 }
